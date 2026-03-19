@@ -29,6 +29,7 @@
 
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-000?&logo=express)
+![Nestjs](https://img.shields.io/badge/-Nestjs-000?&logo=nestjs)
 ![REST APIs](https://img.shields.io/badge/-REST-000)
 ![Webhooks](https://img.shields.io/badge/-Webhooks-000)
 
