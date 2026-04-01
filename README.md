@@ -5,14 +5,14 @@
 
 → [postigo.sh](https://postigo.sh)
 
-## Systems
+## ⚙️ Systems
 - [cart-generator](https://github.com/postigodev/cart-generator) transforms user recipes into structured grocery systems and shopping flows  
 - [DeskRemote](https://github.com/postigodev/DeskRemote) system-level media control via global shortcuts  
 - [cimax-platform](https://github.com/postigodev/cimax-platform) production MERN system for operational workflows and data management
 - [game-search-algorithms](https://github.com/postigodev/game-search-algorithms) decision-making systems using Minimax, MCTS, and custom environments  
-## Stack
+## 🧱 Stack
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=typescript)
+- ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=typescript)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python)
 ![Rust](https://img.shields.io/badge/-Rust-000?&logo=rust)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
