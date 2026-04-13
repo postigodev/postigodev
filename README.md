@@ -6,7 +6,7 @@
 → [postigo.sh](https://postigo.sh)
 
 ## ⚙️ Systems
-- [urbanlens](https://github.com/LambSystems/UrbanLens) agentic system that transforms satellite imagery into thermal insights, identifying and ranking urban heat hotspots for infrastructure analysis 
+- [urbanlens](https://github.com/LambSystems/UrbanLens) agentic system that turns satellite imagery into thermal insights and ranks urban heat hotspots
 - [cart-generator](https://github.com/postigodev/cart-generator) transforms user recipes into structured grocery systems and shopping flows  
 - [sendo](https://github.com/postigodev/sendo) system-level media control via global shortcuts  
 - [cimax-platform](https://github.com/postigodev/cimax-platform) production MERN system for operational workflows and data management
