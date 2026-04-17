@@ -7,7 +7,7 @@
 
 ## ⚙️ Systems
 - [urbanlens](https://github.com/LambSystems/UrbanLens) agentic system that turns satellite imagery into thermal insights and ranks urban heat hotspots
-- [cart-generator](https://github.com/postigodev/cart-generator) transforms user recipes into structured grocery systems and shopping flows  
+- [cussien](https://github.com/postigodev/cart-generator) transforms user recipes into structured grocery systems and shopping flows  
 - [sendo](https://github.com/postigodev/sendo) system-level media control via global shortcuts  
 - [cimax-platform](https://github.com/postigodev/cimax-platform) production MERN system for operational workflows and data management
 - [game-search-algorithms](https://github.com/postigodev/game-search-algorithms) decision-making systems using Minimax, MCTS, and custom environments  
