@@ -7,9 +7,11 @@
 
 ## ⚙️ Systems
 - [urbanlens](https://github.com/LambSystems/UrbanLens) agentic system that turns satellite imagery into thermal insights and ranks urban heat hotspots
-- [cussien](https://github.com/postigodev/cart-generator) transforms user recipes into structured grocery systems and shopping flows  
-- [sendo](https://github.com/postigodev/sendo) system-level media control via global shortcuts  
+- [cussien](https://github.com/postigodev/cart-generator) transforms user recipes into structured grocery systems and shopping flows
+- [aeris](https://github.com/LambSystems/aeris) context-aware AI system that fuses live computer vision with environmental intelligence to drive real-time sustainability action
+- [sendo](https://github.com/postigodev/sendo) local-first desktop orchestration for Spotify routing, Fire TV control, and reusable media automation.
 - [cimax](https://github.com/postigodev/cimax-platform) production MERN system for operational workflows and data management
+
 ## 🧱 Stack
 
 - ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=typescript)
