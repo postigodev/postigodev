@@ -7,9 +7,9 @@
 
 ## ⚙️ Systems
 - [urbanlens](https://github.com/LambSystems/UrbanLens) agentic system that turns satellite imagery into thermal insights and ranks urban heat hotspots
-- [chef](https://github.com/AxiomaSystems/chef) transforms user recipes into structured grocery systems and shopping flows
-- [aeris](https://github.com/LambSystems/aeris) context-aware AI system that fuses live computer vision with environmental intelligence to drive real-time sustainability action
 - [sendo](https://github.com/postigodev/sendo) local-first desktop orchestration for Spotify routing, Fire TV control, and reusable media automation.
+- [aeris](https://github.com/LambSystems/aeris) context-aware AI system that fuses live computer vision with environmental intelligence to drive real-time sustainability action
+- [chef](https://github.com/AxiomaSystems/chef) transforms user recipes into structured grocery systems and shopping flows
 - [cimax](https://github.com/postigodev/cimax-platform) production MERN system for operational workflows and data management
 
 ## 🧱 Stack
