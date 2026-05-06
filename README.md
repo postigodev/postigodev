@@ -6,7 +6,7 @@
 → [postigo.sh](https://postigo.sh)
 
 ## ⚙️ Systems
-- [chef](https://github.com/AxiomaSystems/chef) transforms user recipes into structured grocery systems and shopping flows
+- [chef](https://github.com/AxiomaSystems/chef) AI cooking assistant for personalized recipes, kitchen inventory, and editable grocery carts.
 - [urbanlens](https://github.com/LambSystems/UrbanLens) agentic system that turns satellite imagery into thermal insights and ranks urban heat hotspots
 - [sendo](https://github.com/postigodev/sendo) local-first desktop orchestration for Spotify routing, Fire TV control, and reusable media automation.
 - [aeris](https://github.com/LambSystems/aeris) context-aware AI system that fuses live computer vision with environmental intelligence to drive real-time sustainability action
