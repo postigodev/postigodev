@@ -10,6 +10,8 @@
 - [urbanlens](https://github.com/LambSystems/UrbanLens) agentic system that turns satellite imagery into thermal insights and ranks urban heat hotspots
 - [sendo](https://github.com/postigodev/sendo) local-first desktop orchestration for Spotify routing, Fire TV control, and reusable media automation.
 - [aeris](https://github.com/LambSystems/aeris) context-aware AI system that fuses live computer vision with environmental intelligence to drive real-time sustainability action
+- [vidpeek](https://github.com/postigodev/vidpeek) modern typed FFmpeg preview pipeline for Node and CLI
+- [tierzo](https://github.com/postigodev/tierzo) agentic tier-list asset generator
 - [cimax](https://github.com/postigodev/cimax-platform) production MERN system for operational workflows and data management
 
 ## 🧱 Stack
