@@ -15,6 +15,7 @@
 - [tierzo](https://github.com/postigodev/tierzo) agentic tier-list asset generator
 - [trama](https://github.com/postigodev/trama) local-first adaptive queue engine for music sessions
 - [cimax](https://github.com/postigodev/cimax-platform) production MERN system for operational workflows and data management
+- [hoi4-agents-skill](https://github.com/postigodev/hoi4-agent-skill) portable agent skill for working on Hearts of Iron IV mods with AI coding agents
 
 ## 🧱 Stack
 
