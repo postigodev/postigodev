@@ -16,7 +16,7 @@
 - [hilfer](https://github.com/postigodev/hilfer) run-once Python cron worker that refreshes Google Sheets market data for a personal US stock/ETF portfolio ledger
 - [trama](https://github.com/postigodev/trama) local-first adaptive queue engine for music sessions
 - [cimax](https://github.com/postigodev/cimax-platform) production MERN system for operational workflows and data management
-- [hoi4-agents-skill](https://github.com/postigodev/hoi4-agent-skill) portable agent skill for working on Hearts of Iron IV mods with AI coding agents
+- [hoi4-agent-skill](https://github.com/postigodev/hoi4-agent-skill) portable agent skill for working on Hearts of Iron IV mods with AI coding agents
 
 ## 🧱 Stack
 
