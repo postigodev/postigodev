@@ -12,6 +12,7 @@
 - [aeris](https://github.com/LambSystems/aeris) award winner real-time environmental intelligence system
 - [koba](https://github.com/postigodev/koba) local workflow configurator for Git repositories
 - [vidpeek](https://github.com/postigodev/vidpeek) modern typed FFmpeg preview pipeline for Node and CLI
+- [dm2text](https://github.com/postigodev/dm2text) browser extension to copy Instagram DMs as structured text
 - [tierzo](https://github.com/postigodev/tierzo) agentic tier-list asset generator
 - [hilfer](https://github.com/postigodev/hilfer) run-once Python cron worker that refreshes Google Sheets market data for a personal US stock/ETF portfolio ledger
 - [trama](https://github.com/postigodev/trama) local-first adaptive queue engine for music sessions
