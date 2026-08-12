@@ -14,6 +14,7 @@
 - [vidpeek](https://github.com/postigodev/vidpeek) modern typed FFmpeg preview pipeline for Node and CLI
 - [dm2text](https://github.com/postigodev/dm2text) browser extension to copy Instagram DMs as structured text
 - [tierzo](https://github.com/postigodev/tierzo) agentic tier-list asset generator
+- [brum](https://github.com/postigodev/brumaire) extending short looping videos for Instagram
 - [hilfer](https://github.com/postigodev/hilfer) run-once Python cron worker that refreshes Google Sheets market data for a personal US stock/ETF portfolio ledger
 - [trama](https://github.com/postigodev/trama) local-first adaptive queue engine for music sessions
 - [cimax](https://github.com/postigodev/cimax-platform) production MERN system for operational workflows and data management
