@@ -18,20 +18,21 @@
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)
 
 ## ⚙️ Systems
-- [preppie](https://github.com/AxiomaSystems/chef) AI cooking assistant for personalized recipes, kitchen inventory, and editable grocery carts.
-- [urbanlens](https://github.com/LambSystems/UrbanLens) agentic system that turns satellite imagery into thermal insights and ranks urban heat hotspots
-- [sendo](https://github.com/postigodev/sendo) local-first desktop orchestration for Spotify routing, Fire TV control, and reusable media automation.
-- [aeris](https://github.com/LambSystems/aeris) award winner real-time environmental intelligence system
-- [koba](https://github.com/postigodev/koba) local workflow configurator for Git repositories
-- [vidpeek](https://github.com/postigodev/vidpeek) modern typed FFmpeg preview pipeline for Node and CLI
-- [dm2text](https://github.com/postigodev/dm2text) browser extension to copy Instagram DMs as structured text
-- [tierzo](https://github.com/postigodev/tierzo) agentic tier-list asset generator
-- [brum](https://github.com/postigodev/brumaire) extending short looping videos for Instagram
-- [hilfer](https://github.com/postigodev/hilfer) run-once Python cron worker that refreshes Google Sheets market data for a personal US stock/ETF portfolio ledger
-- [trama](https://github.com/postigodev/trama) local-first adaptive queue engine for music sessions
-- [cimax](https://github.com/postigodev/cimax-platform) production MERN system for operational workflows and data management
-- [hoi4-agent-skill](https://github.com/postigodev/hoi4-agent-skill) portable agent skill for working on Hearts of Iron IV mods with AI coding agents
+* [preppie](https://github.com/AxiomaSystems/Chef) collaborative cooking product with backend flows, PostgreSQL, and safer releases.
+* [koba](https://github.com/postigodev/koba) Rust CLI for planning Git commits, checks, and PRs without taking over your workflow.
+* [dm2text](https://github.com/postigodev/dm2text) turn selected Instagram DMs into clean structured text, locally in the browser.
+* [cimax](https://github.com/postigodev/cimax-platform) modernized operations app with better queries, caching, migrations, and background jobs.
+* [sendo](https://github.com/postigodev/sendo) Windows tool for Spotify routing and Fire TV control with Rust, Tauri, and ADB.
+* [trama](https://github.com/postigodev/trama) local music queue that ranks tracks from listening history.
+* [tierzo](https://github.com/postigodev/tierzo) AI tier-list builder that keeps item identity stable through edits and regeneration.
+* [brum](https://github.com/postigodev/brumaire) browser tool for extending short H.264/AAC loops without re-encoding the video.
+* [vidpeek](https://github.com/postigodev/vidpeek) typed Node.js and FFmpeg tooling for generating useful video previews.
+* [aeris](https://github.com/LambSystems/aeris) hackathon scanner combining live waste detection with weather and air-quality context.
+* [urbanlens](https://github.com/LambSystems/urbanlens) hackathon prototype that finds thermal hotspots from map captures and ranks what to inspect.
+* [hilfer](https://github.com/postigodev/hilfer) tiny Python worker that keeps my stock and ETF tracker up to date.
+* [hoi4-agent-skill](https://github.com/postigodev/hoi4-agent-skill) agent skill that gives coding agents the context to work on Hearts of Iron IV mods.
 
 ---
 
 > 🐐 systems > tools
+
