@@ -1,7 +1,7 @@
 ## 🐐 Piero Postigo  
 > Systems · Backend · Automation <img align="right" src="https://komarev.com/ghpvc/?username=postigodev&color=CC8456&style=flat-square"/>
 
-
+<img align="right" src="https://github.com/postigodev/postigodev/blob/main/0d3b56e8-6813-47f9-a050-61c592082ca3%20(1).png">
 
 *I build production systems that eliminate manual workflows through automation and backend infrastructure.*
 
