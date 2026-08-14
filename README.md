@@ -16,7 +16,6 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=redis)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=linux)
 
 ## ⚙️ Systems
 - [preppie](https://github.com/AxiomaSystems/chef) AI cooking assistant for personalized recipes, kitchen inventory, and editable grocery carts.
