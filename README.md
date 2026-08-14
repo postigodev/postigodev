@@ -27,7 +27,7 @@
 * [tierzo](https://github.com/postigodev/tierzo) AI tier-list builder that keeps item identity stable through edits and regeneration.
 * [brum](https://github.com/postigodev/brumaire) browser tool for extending short H.264/AAC loops without re-encoding the video.
 * [vidpeek](https://github.com/postigodev/vidpeek) typed Node.js and FFmpeg tooling for generating useful video previews.
-* [aeris](https://github.com/LambSystems/aeris) hackathon scanner combining live waste detection with weather and air-quality context.
+* [aeris](https://github.com/LambSystems/aeris) award-winner scanner combining live waste detection with weather and air-quality context.
 * [urbanlens](https://github.com/LambSystems/urbanlens) hackathon prototype that finds thermal hotspots from map captures and ranks what to inspect.
 * [hilfer](https://github.com/postigodev/hilfer) tiny Python worker that keeps my stock and ETF tracker up to date.
 * [hoi4-agent-skill](https://github.com/postigodev/hoi4-agent-skill) agent skill that gives coding agents the context to work on Hearts of Iron IV mods.
