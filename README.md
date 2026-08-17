@@ -2,9 +2,13 @@
 > Systems · Backend · Automation 
 <img align="right" src="https://komarev.com/ghpvc/?username=postigodev&color=CC8456&style=flat-square"/> <br>  <img align="right" width="135" src="https://github.com/postigodev/postigodev/blob/main/0d3b56e8-6813-47f9-a050-61c592082ca3%20(1).png">
 
+<div>
+
 *I build software across backend systems, automation, dev tools, desktop apps, browser extensions, and the web.* 
 
 \> [postigo.sh](https://postigo.sh), [movies](https://letterboxd.com/postigovich/), [books](https://hardcover.app/@postigo)
+
+</div>
 
 ## ⚙️ built
 * [preppie](https://github.com/AxiomaSystems/Chef) collaborative cooking product with backend flows, PostgreSQL, and safer releases.  
