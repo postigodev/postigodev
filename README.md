@@ -6,7 +6,8 @@
 *I build software across backend systems, automation, dev tools, desktop apps, browser extensions, and the web.*
 
 
-
+<p>
+  
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=typescript)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python)
 ![Rust](https://img.shields.io/badge/-Rust-000?&logo=rust)
@@ -17,7 +18,8 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=redis) 
-<br><br>
+
+<p>
 
 ## ⚙️ built
 * [preppie](https://github.com/AxiomaSystems/Chef) collaborative cooking product with backend flows, PostgreSQL, and safer releases.
