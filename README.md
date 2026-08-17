@@ -22,7 +22,7 @@
 * [hoi4-agent-skill](https://github.com/postigodev/hoi4-agent-skill) agent skill that gives coding agents the context to work on Hearts of Iron IV mods.
 
 ## 
-<img align="right" src="https://em-content.zobj.net/source/microsoft-3D-fluent/433/goat_1f410.png" width="24" alt="🐐">
+<img align="right" src="https://em-content.zobj.net/source/microsoft-3D-fluent/433/goat_1f410.png" width="18" alt="🐐">
 
 <div>
   
