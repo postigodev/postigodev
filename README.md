@@ -1,28 +1,13 @@
 ## 🐐 Piero Postigo  
-> Systems · Backend · Automation <img align="right" src="https://komarev.com/ghpvc/?username=postigodev&color=CC8456&style=flat-square"/>
+> Systems · Backend · Automation 
+<img align="right" src="https://komarev.com/ghpvc/?username=postigodev&color=CC8456&style=flat-square"/> <br>  <img align="right" width="135" src="https://github.com/postigodev/postigodev/blob/main/0d3b56e8-6813-47f9-a050-61c592082ca3%20(1).png">
 
-<img align="right" src="https://github.com/postigodev/postigodev/blob/main/0d3b56e8-6813-47f9-a050-61c592082ca3%20(1).png">
+*I build software across backend systems, automation, dev tools, desktop apps, browser extensions, and the web.* 
 
-*I build software across backend systems, automation, dev tools, desktop apps, browser extensions, and the web.*
-
-
-<p>
-  
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=typescript)
-![Python](https://img.shields.io/badge/-Python-000?&logo=python)
-![Rust](https://img.shields.io/badge/-Rust-000?&logo=rust)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=fastapi)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)
-<br>
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
-![Redis](https://img.shields.io/badge/-Redis-000?&logo=redis) 
-
-<p>
+\> [postigo.sh](https://postigo.sh), [movies](https://letterboxd.com/postigovich/), [books](https://hardcover.app/@postigo)
 
 ## ⚙️ built
-* [preppie](https://github.com/AxiomaSystems/Chef) collaborative cooking product with backend flows, PostgreSQL, and safer releases.
+* [preppie](https://github.com/AxiomaSystems/Chef) collaborative cooking product with backend flows, PostgreSQL, and safer releases.  
 * [koba](https://github.com/postigodev/koba) Rust CLI for planning Git commits, checks, and PRs without taking over your workflow.
 * [dm2text](https://github.com/postigodev/dm2text) turn selected Instagram DMs into clean structured text, locally in the browser.
 * [cimax](https://github.com/postigodev/cimax-platform) modernized operations app with better queries, caching, migrations, and background jobs.
@@ -36,11 +21,19 @@
 * [hilfer](https://github.com/postigodev/hilfer) tiny Python worker that keeps my stock and ETF tracker up to date.
 * [hoi4-agent-skill](https://github.com/postigodev/hoi4-agent-skill) agent skill that gives coding agents the context to work on Hearts of Iron IV mods.
 
-## 🐼 @me
+## 
+<img align="right" src="https://em-content.zobj.net/source/microsoft-3D-fluent/433/goat_1f410.png" width="24" alt="🐐">
 
-→ [postigo.sh](https://postigo.sh) → [movies](https://letterboxd.com/postigovich/) → [books](https://hardcover.app/@postigo)
+<div>
+  
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=typescript)
+![Python](https://img.shields.io/badge/-Python-000?&logo=python)
+![Rust](https://img.shields.io/badge/-Rust-000?&logo=rust)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=fastapi)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
+![Redis](https://img.shields.io/badge/-Redis-000?&logo=redis)
 
----
-
-> 🐐 systems > tools
-
+</div>
