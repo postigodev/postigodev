@@ -3,21 +3,22 @@
 
 <img align="right" src="https://github.com/postigodev/postigodev/blob/main/0d3b56e8-6813-47f9-a050-61c592082ca3%20(1).png">
 
-*I build production systems that eliminate manual workflows through automation and backend infrastructure.*
+*I build software across backend systems, automation, developer tools, desktop apps, browser extensions, and the web.*
 
-→ [postigo.sh](https://postigo.sh)
+
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=typescript)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python)
 ![Rust](https://img.shields.io/badge/-Rust-000?&logo=rust)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=fastapi)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)
+<br>
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=redis)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)
 
-## ⚙️ Systems
+## ⚙️ built
 * [preppie](https://github.com/AxiomaSystems/Chef) collaborative cooking product with backend flows, PostgreSQL, and safer releases.
 * [koba](https://github.com/postigodev/koba) Rust CLI for planning Git commits, checks, and PRs without taking over your workflow.
 * [dm2text](https://github.com/postigodev/dm2text) turn selected Instagram DMs into clean structured text, locally in the browser.
@@ -31,6 +32,10 @@
 * [urbanlens](https://github.com/LambSystems/urbanlens) hackathon prototype that finds thermal hotspots from map captures and ranks what to inspect.
 * [hilfer](https://github.com/postigodev/hilfer) tiny Python worker that keeps my stock and ETF tracker up to date.
 * [hoi4-agent-skill](https://github.com/postigodev/hoi4-agent-skill) agent skill that gives coding agents the context to work on Hearts of Iron IV mods.
+
+## 🐼 @me
+
+→ [postigo.sh](https://postigo.sh) → [movies](https://letterboxd.com/postigovich/) → [books](https://hardcover.app/@postigo)
 
 ---
 
