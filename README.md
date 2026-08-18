@@ -4,7 +4,7 @@
 
 <div>
 
-*I build software across backend systems, automation, developer tools, desktop apps, browser extensions, and the web.* 
+*I build software across backend systems, automation, dev tools, desktop apps, browser extensions, and the web.* 
 
 \> [postigo.sh](https://postigo.sh), [movies](https://letterboxd.com/postigovich/), [books](https://hardcover.app/@postigo)
 
