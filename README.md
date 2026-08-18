@@ -1,6 +1,6 @@
 ## 🐐 Piero Postigo  
 > Systems · Backend · Automation 
-<img align="right" src="https://komarev.com/ghpvc/?username=postigodev&color=CC8456&style=flat-square"/> <br>  <img align="right" width="135" src="https://github.com/postigodev/postigodev/blob/main/0d3b56e8-6813-47f9-a050-61c592082ca3%20(1).png">
+<img align="right" src="https://komarev.com/ghpvc/?username=postigodev&color=CC8456&style=flat-square"/> <br>  <img align="right" width="125" src="https://github.com/postigodev/postigodev/blob/main/0d3b56e8-6813-47f9-a050-61c592082ca3%20(1).png">
 
 <div>
 
